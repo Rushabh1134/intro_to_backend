@@ -1,2 +1,2 @@
 playground-view: terminal-editor-browser,
-tab :['.env.sample']
+tab :['backend/.env.sample']
